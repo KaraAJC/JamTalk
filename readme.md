@@ -10,7 +10,7 @@ JamTalk is an app that will help you and your partner talk about what your jam i
 
 ### ScreenShots/Wireframes
 ![wireframes](src/jamtalk-wires.jpg)
-![schema sketch](jamtalk-schema.jpg)
+![schema sketch](src/jamtalk-schema.jpg)
 
 ## Context
 ### Motivation
