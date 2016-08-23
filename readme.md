@@ -8,10 +8,9 @@ JamTalk is an app that will help you and your partner talk about what your jam i
 - **JamUp** : This feature allows a user to find out where they and another person intersect
 - **TeaTime** : This feature allows a user with/without their partner, to find ways to navigate their jams.
 
-<!-- ### ScreenShots
-![Image title](imagelink.jpg)
-![Image title](imagelink.jpg)
-![Image title](imagelink.jpg) -->
+### ScreenShots/Wireframes
+![wireframes](src/jamtalk-wires.jpg)
+![schema sketch](jamtalk-schema.jpg)
 
 ## Context
 ### Motivation
@@ -20,27 +19,29 @@ I really wanted to be able to have the ease of documenting this info for yoursel
 
 ### Personas
 Persona 1 - Initiator
-persona 2 - Reciever
+persona 2 - Partner/Survey Reciever
 persona 3 - Cautious User
 
 ### User Flow
 
-####(1)
+####(Izzy Initiator)
+ 1. I want to take some time to explore my own desires and boundaries, so i open up the JamTalk app and start a session.
+ 2. I start out on the Action Jams page, thinking through what I like to do/be done. when i finish i click next and go to the next page.
+ 3. I land on the Jam-quipment page, and talk about all the toys and other equipment that are my jams, then click to the next page.
+ 4. I land on the Jam-On page. where i make a list of all my turn-ons, even use cute emojis! then move onto the next page.
+ 5. I land on the Jam-talk'in page, where i write out all the things i like to say and hear, then click to the next page.
+ 6.
+
+####(Patty Partner/Reciever)
  1. starts here
  2. clicks/moves to here,
  3. completes their goal.
  4.
 
-####(2)
- 1. starts here
- 2. clicks/moves to here,
- 3. completes their goal.
- 4.
-
-####(3)
- 1. starts here
- 2. clicks/moves to here,
- 3. completes their goal.
+####(Cassie Cautious)
+ 1. starts, but wants a way to pause, or skip a page to work on later.
+ 2. clicks/moves through the site, but has a way to go back to a previous page..
+ 3. completes the survey, but wants to make sure it doesnt get shared out into the interwebs..
  4.
 
 
